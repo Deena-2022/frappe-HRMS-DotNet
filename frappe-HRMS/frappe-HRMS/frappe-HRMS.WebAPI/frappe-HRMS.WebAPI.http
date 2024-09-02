@@ -1,6 +1,0 @@
-@frappe_HRMS.WebAPI_HostAddress = http://localhost:5200
-
-GET {{frappe_HRMS.WebAPI_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

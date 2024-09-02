@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\frappe-HRMS.WebAPI.props" />
-</Project>
