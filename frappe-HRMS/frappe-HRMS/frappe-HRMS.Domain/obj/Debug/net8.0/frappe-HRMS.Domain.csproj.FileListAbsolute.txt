@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\frappe-HRMS-DotNet\frappe-HRMS\frappe-HRMS\frappe-HRMS.Domain\bin\Debug\net8.0\frappe-HRMS.Domain.deps.json
+C:\Users\Admin\source\repos\frappe-HRMS-DotNet\frappe-HRMS\frappe-HRMS\frappe-HRMS.Domain\bin\Debug\net8.0\frappe-HRMS.Domain.dll
+C:\Users\Admin\source\repos\frappe-HRMS-DotNet\frappe-HRMS\frappe-HRMS\frappe-HRMS.Domain\bin\Debug\net8.0\frappe-HRMS.Domain.pdb
+C:\Users\Admin\source\repos\frappe-HRMS-DotNet\frappe-HRMS\frappe-HRMS\frappe-HRMS.Domain\obj\Debug\net8.0\frappe-HRMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\frappe-HRMS-DotNet\frappe-HRMS\frappe-HRMS\frappe-HRMS.Domain\obj\Debug\net8.0\frappe-HRMS.Domain.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\frappe-HRMS-DotNet\frappe-HRMS\frappe-HRMS\frappe-HRMS.Domain\obj\Debug\net8.0\frappe-HRMS.Domain.AssemblyInfo.cs
+C:\Users\Admin\source\repos\frappe-HRMS-DotNet\frappe-HRMS\frappe-HRMS\frappe-HRMS.Domain\obj\Debug\net8.0\frappe-HRMS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\frappe-HRMS-DotNet\frappe-HRMS\frappe-HRMS\frappe-HRMS.Domain\obj\Debug\net8.0\frappe-HRMS.Domain.sourcelink.json
+C:\Users\Admin\source\repos\frappe-HRMS-DotNet\frappe-HRMS\frappe-HRMS\frappe-HRMS.Domain\obj\Debug\net8.0\frappe-HRMS.Domain.dll
+C:\Users\Admin\source\repos\frappe-HRMS-DotNet\frappe-HRMS\frappe-HRMS\frappe-HRMS.Domain\obj\Debug\net8.0\refint\frappe-HRMS.Domain.dll
+C:\Users\Admin\source\repos\frappe-HRMS-DotNet\frappe-HRMS\frappe-HRMS\frappe-HRMS.Domain\obj\Debug\net8.0\frappe-HRMS.Domain.pdb
+C:\Users\Admin\source\repos\frappe-HRMS-DotNet\frappe-HRMS\frappe-HRMS\frappe-HRMS.Domain\obj\Debug\net8.0\ref\frappe-HRMS.Domain.dll

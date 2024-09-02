@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "+cWzbMmOgRVgqsxhOsrbRxNnFeOmA3NnfzVMdUEdwFQ=",
+  "Source": "frappe-HRMS.WebAPI",
+  "BasePath": "_content/frappe-HRMS.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
