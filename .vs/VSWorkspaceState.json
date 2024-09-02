@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\frappe-HRMS"
+    "\\frappe-HRMS",
+    "\\frappe-HRMS\\frappe-HRMS"
   ],
-  "SelectedNode": "\\LICENSE",
+  "SelectedNode": "\\frappe-HRMS\\frappe-HRMS\\frappe-HRMS.sln",
   "PreviewInSolutionExplorer": false
 }
